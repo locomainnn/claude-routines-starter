@@ -103,12 +103,6 @@ A weekly digest is written to your vault (or any directory you configure). Examp
 **Analysis:** Top content: AI changes the SDR role...
 ```
 
-## Want help setting this up?
-
-This is a starter kit. Getting the full setup working — tuned to your ICP, integrated with your CRM, with Telegram notifications and Notion automation — takes experimentation. If you want to skip the trial and error and have it built specifically for your business, book a call:
-
-[Plan a call →](https://your-agenda-link-here)
-
 ## License
 
 MIT — see [LICENSE](LICENSE) file. Use it, modify it, ship it. No warranty.
