@@ -9,15 +9,15 @@ Each creator is defined with a bullet containing their LinkedIn profile URL. Add
 ## Creators
 
 ### Cold Email & Outbound
-- https://www.linkedin.com/in/creator-slug/ — breakdowns of cold email variables
-- https://www.linkedin.com/in/creator-slug/ — agency case studies and frameworks
+- https://www.linkedin.com/in/<creator-slug>/ — breakdowns of cold email variables
+- https://www.linkedin.com/in/<creator-slug>/ — agency case studies and frameworks
 
 ### LinkedIn Outbound
-- https://www.linkedin.com/in/creator-slug/ — LinkedIn prospecting tactics
+- https://www.linkedin.com/in/<creator-slug>/ — LinkedIn prospecting tactics
 
 ### AI & Sales Automation
-- https://www.linkedin.com/in/creator-slug/ — AI in sales, SDR role evolution
-- https://www.linkedin.com/in/creator-slug/ — intent signals, data-driven outreach
+- https://www.linkedin.com/in/<creator-slug>/ — AI in sales, SDR role evolution
+- https://www.linkedin.com/in/<creator-slug>/ — intent signals, data-driven outreach
 
 ## Search Queries
 
